@@ -1,0 +1,15 @@
+{
+  "name": "nodeapp",
+  "version": "1.0.0",
+  "description": "Node app to call firbase API's",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Darshan kumar",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.2",
+    "firebase-admin": "^5.10.0"
+  }
+}

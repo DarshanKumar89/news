@@ -1,0 +1,96 @@
+[
+  {
+    "id": 1,
+    "title": "Sample news 1",
+    "description": "Sample news one decription",
+    "image_url": "http://localhost/image.png",
+    "hyper_link": "http://google.com",
+    "isNew": true,
+    "isArchived": false,
+    "date": 1520800766000
+  },
+  {
+    "id": 2,
+    "title": "Sample news 1",
+    "description": "Sample news one decription",
+    "image_url": "http://localhost/image.png",
+    "hyper_link": "http://google.com",
+    "isNew": true,
+    "isArchived": false,
+    "date": 1420800766000
+  },
+  {
+    "id": 3,
+    "title": "Sample news 1",
+    "description": "Sample news one decription",
+    "image_url": "http://localhost/image.png",
+    "hyper_link": "http://google.com",
+    "isNew": true,
+    "isArchived": false,
+    "date": 1220800766000
+  },
+  {
+    "id": 4,
+    "title": "Sample news 1",
+    "description": "Sample news one decription",
+    "image_url": "http://localhost/image.png",
+    "hyper_link": "http://google.com",
+    "isNew": true,
+    "isArchived": false,
+    "date": 1720800766000
+  },
+  {
+    "id": 5,
+    "title": "Sample news 1",
+    "description": "Sample news one decription",
+    "image_url": "http://localhost/image.png",
+    "hyper_link": "http://google.com",
+    "isNew": true,
+    "isArchived": false
+  },
+  {
+    "id": 6,
+    "title": "Sample news 1",
+    "description": "Sample news one decription",
+    "image_url": "http://localhost/image.png",
+    "hyper_link": "http://google.com",
+    "isNew": true,
+    "isArchived": false
+  },
+  {
+    "id": 7,
+    "title": "Sample news 1",
+    "description": "Sample news one decription",
+    "image_url": "http://localhost/image.png",
+    "hyper_link": "http://google.com",
+    "isNew": true,
+    "isArchived": false
+  },
+  {
+    "id": 8,
+    "title": "Sample news 1",
+    "description": "Sample news one decription",
+    "image_url": "http://localhost/image.png",
+    "hyper_link": "http://google.com",
+    "isNew": true,
+    "isArchived": false
+  },
+  {
+    "id": 9,
+    "title": "Sample news 9",
+    "description": "Sample news one decription",
+    "image_url": "http://localhost/image.png",
+    "hyper_link": "http://google.com",
+    "isNew": false,
+    "isArchived": true
+  },
+  {
+    "id": 10,
+    "title": "Demoing to darshan bhai news 10",
+    "description": "Sample news one decription",
+    "image_url": "http://localhost/image.png",
+    "hyper_link": "http://google.com",
+    "isNew": false,
+    "isArchived": true
+  }
+]

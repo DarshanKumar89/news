@@ -1,0 +1,37 @@
+<div class="container">
+  <div class="col-md-12">
+    <h2>New</h2>
+
+    <div  *ngFor="let newsItem of newsArray; let i = index">
+      <div class="col-md-12" *ngIf="newsItem.isNew">
+        <div class="col-md-2">
+          {{ newsItem.title }}
+        </div>
+        <div class="col-md-8">
+          {{ newsItem.description }} - {{newsItem.date | amDateFormat:'LL'}}
+        </div>
+        <div class="col-md-2">
+          <button class="btn btn-default" (click)="archiveNews(newsItem.id, newsItem.firebaseKey_1, newsItem.firebaseKey_2)">Archive</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+
+  <div class="col-md-12">
+    <h2>Archived</h2>
+  </div>
+  <div  *ngFor="let newsItem of newsArray; let i = index">
+    <div class="col-md-12" *ngIf="newsItem.isArchived">
+      <div class="col-md-2">
+        {{ newsItem.title }}
+      </div>
+      <div class="col-md-8">
+        {{ newsItem.description }}
+      </div>
+      <div class="col-md-2">
+        <button class="btn btn-default btn-danger" (click)="removeNews(newsItem.id, newsItem.firebaseKey_1, newsItem.firebaseKey_2)">Remove</button>
+      </div>
+    </div>
+  </div>
+</div>
