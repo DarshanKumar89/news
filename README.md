@@ -22,4 +22,4 @@
 
 ## News App
 
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/DarshanKumar89/news/blob/master/Sample%20View.png
