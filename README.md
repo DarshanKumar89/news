@@ -21,4 +21,6 @@
 
 
 ## News App
-<img src="https://raw.githubusercontent.com/darshankumar89/news/master/view.png" alt="news"/>
+
+![alt text](https://github.com/DarshanKumar89/news/blob/master/View.png)
+<img src="https://raw.githubusercontent.com/DarshanKumar89/news/master/View.png" alt="news"/>
