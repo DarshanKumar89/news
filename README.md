@@ -4,7 +4,7 @@
 
 *  cd newsApp
 *  npm install 
-* npm install -g angularcli/@latest
+* npm install -g angular-cli
 ```
   ng serve --open
 ```
